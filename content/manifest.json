@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name":"lpCrawler",
+    "name":"getHostname",
     "version":"1.0",
-    "description":"liepin crawler",
+    "description":"get web Hostname",
     "icons":{
         "48":"images/icon.png"
     },
